@@ -1,0 +1,138 @@
+/* author: Amritha Gopal*/
+body {
+    background-color: rgb(247, 245, 242);
+}
+.container {
+    /* border: 2px solid; */
+    display: flex;
+    line-height: 20px;
+    width: 1220px;
+}
+.img1 {
+    width: 100px;
+}
+a {
+    text-decoration: none;
+}
+.nav {
+    /* border: 2px solid; */
+    max-height: 100%;
+    padding-left: 15px;
+    line-height: 25px;
+    background-color: #f6f6f6;
+    width: 200px;
+}
+.article {
+    border-left: 1px solid rgb(200, 234, 245);
+    border-bottom: 1px solid rgb(200, 234, 245);
+    width: 100%;
+}
+/* .heading1 {
+    /* border: 2px solid; */
+/* height: 50px; 
+}*/
+
+.logg {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 50px;
+    gap: 10px;
+}
+.main-read {
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: flex-end;
+}
+.heading2 {
+    /* border: 2px solid; */
+    text-align: center;
+    line-height: 2px;
+    margin-top: 50px;
+}
+.main {
+    display: flex;
+    /* border: 2px solid yellow; */
+    margin-right: 700px;
+    width: 350px;
+    margin-top: 20px;
+    gap: 10px;
+    margin-left: 10px;
+}
+.read {
+    /* border: 1px solid red; */
+    width: 1300px;
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+    height: 20px;
+}
+
+.content {
+    display: flex;
+    padding: 20px;
+}
+.content1 {
+    border: 1px rgb(199, 188, 188) solid;
+    width: 50%;
+    padding: 10px;
+}
+.img2 {
+    float: left;
+    height: 100px;
+    width: 250px;
+    padding: 8px;
+}
+.img3 {
+    float: left;
+}
+.Lchild1 {
+    border: 1px rgb(199, 188, 188) solid;
+    font-weight: bold;
+    font-size: 18px;
+    background: #c4d8f0;
+    border-color: #a3bfb1;
+    padding: 4px;
+}
+.Lchild2 {
+    border: 1px rgb(199, 188, 188) solid;
+    font-weight: bold;
+    font-size: 18px;
+    background: #c4d8f0;
+    border-color: #a3bfb1;
+    padding: 4px;
+    margin-top: 10px;
+}
+.content2 {
+    border: 1px rgb(199, 188, 188) solid;
+    width: 50%;
+    margin-left: 5px;
+    padding: 10px;
+}
+.Rchild1 {
+    border: 1px black solid;
+    font-weight: bold;
+    font-size: 18px;
+    background-color: #cef2f0;
+    border-color: #a3bfb1;
+    padding: 4px;
+}
+.Rchild2 {
+    border: 1px solid;
+    font-weight: bold;
+    font-size: 18px;
+    background-color: #cef2f0;
+    border-color: #a3bfb1;
+    padding: 4px;
+    margin-top: 85px;
+}
+.img3 {
+    float: right;
+}
+.img4 {
+    float: right;
+}
+.footer {
+    /* border: 1px solid red; */
+    height: 100px;
+    margin-left: 150px;
+}
